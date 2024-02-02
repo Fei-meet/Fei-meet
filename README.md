@@ -32,5 +32,6 @@ Trying to use github.
 [Bilibili Page](https://space.bilibili.com/8229000?spm_id_from=333.1007.0.0)
 
 ------------
-[Thanks to Thomas.](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)
-[And 社赛](https://zhuanlan.zhihu.com/p/426231957?utm_id=0)
+[Thanks to Thomas.](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91) 
+
+[And 社赛](https://zhuanlan.zhihu.com/p/426231957?utm_id=0) 
