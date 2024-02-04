@@ -23,9 +23,11 @@ Trying to use github.
 
 **Please monitor me** 🙇‍
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fei-meet&show_icons=true&theme=radical)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fei-meet&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+<!--
+![Fei_meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fei-meet&show_icons=true&theme=radical)
+-->
 
 [Bilibili Page](https://space.bilibili.com/8229000?spm_id_from=333.1007.0.0)
 
